@@ -1,7 +1,7 @@
 <template>
   <header style="height: 10px; max-width: 970px; margin-left: auto; margin-right: auto;">
     <img src="./assets/biglogo.png" style="float: left;">
-    <a style="float: right;">123</a>
+    <RouterLink style="float: right;" :to="{ name: 'projects' }">Projects</RouterLink>
   </header>
   <div style="background-color: #e5e7eb;width: 10000px; height: 1px; margin-left: -100px; margin-top: 30px;"></div>
 
