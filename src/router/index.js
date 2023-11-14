@@ -7,7 +7,7 @@ const routes = [
         path: "/", component: Home, name: "home"
     },
     {
-        path: "/portfolio/projects", component: Projects, name: "projects"
+        path: "/projects", component: Projects, name: "projects"
     }
 ]
 export default createRouter(
