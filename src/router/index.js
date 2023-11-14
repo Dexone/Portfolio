@@ -4,7 +4,7 @@ import Projects from "../components/Projects.vue"
 
 const routes = [
     {
-        path: "/portfolio/", component: Home, name: "home"
+        path: "/", component: Home, name: "home"
     },
     {
         path: "/portfolio/projects", component: Projects, name: "projects"
