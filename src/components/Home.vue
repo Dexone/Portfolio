@@ -29,6 +29,12 @@
         Made with <a style="color: red">❤</a> using <a href="https://vuejs.org/">Vue.js</a>, hosted on <a
             href="https://pages.github.com/">Github Pages</a>.
     </div>
+
+
+    <div
+        style=" margin-left: auto; margin-right: auto;max-width:600px; font-size: 20px;margin-top: 10px; text-align: center;">
+        ©2023 — Dima 'Dexone' Martynov.
+    </div>
 </template>
 
 <script setup>
