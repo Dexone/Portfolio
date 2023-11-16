@@ -11,7 +11,7 @@
 
     <div
         style="text-align: center; max-width: 600px; word-wrap: break-word; margin-top: 160px; font-style: oblique; font-size: 25px;  margin-left: auto; margin-right: auto;">
-        <b>This page contains some of my projects</b>
+        <b>This page contains some of my pet-projects</b>
     </div>
 
 
