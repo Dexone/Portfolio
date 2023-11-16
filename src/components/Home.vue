@@ -3,7 +3,7 @@
 
         <img src="/public/photo.png" style="float: left;">
         <b
-            style="padding-top: 17px; padding-left: 15px; font-size: 35px;  display: flex; text-decoration: #d20f39 underline;">Hey,
+            style="padding-top: 17px; padding-left: 15px; font-size: 35px;  display: flex; text-decoration: #d20f39 underline;">Hi,
             I'm Dima</b>
         <a style="padding-left: 15px; font-size: 13px;">Frontend developer and diligent learner</a>
     </div>
