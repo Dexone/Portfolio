@@ -1,9 +1,9 @@
 <template>
   <header style="height: 10px; max-width: 970px; margin-left: auto; margin-right: auto;">
     <img src="./assets/biglogo.png" style="float: left;">
-    <RouterLink style="float: right;" :to="{ name: 'projects' }">Projects</RouterLink>
+    <RouterLink style="float: right; font-size: 20px; margin-top: 3px;" :to="{ name: 'projects' }"><b>Projects</b></RouterLink>
   </header>
-  <div style="background-color: #e5e7eb;width: 10000px; height: 1px; margin-left: -100px; margin-top: 30px;"></div>
+  <div style="background-color: #e5e7eb;max-width: 10000px; height: 1px; margin-left: -100px; margin-top: 30px;"></div>
 
 
 

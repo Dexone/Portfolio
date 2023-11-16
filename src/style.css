@@ -1,6 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
 
-body {
+
+BODY {
   font-family: 'Roboto', sans-serif;
-  background-color: #eff1f5;
+  background: #eff1f5;
+  color: #4c4f69;
+}
+
+A {
+  color: #4c4f69;
+  /* Цвет ссылок */
+}
+
+A:visited {
+  color: #4c4f69;
+  /* Цвет посещенных ссылок */
+}
+
+A:active {
+  color: #4c4f69;
+  /* Цвет активных ссылок */
 }
