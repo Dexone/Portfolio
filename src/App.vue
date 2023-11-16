@@ -8,7 +8,7 @@
 
 
 
-  <div style="max-width: 970px;height: 300px; margin-left: auto; margin-right: auto;">
+  <div style="max-width: 970px;height: auto; margin-left: auto; margin-right: auto;">
     <router-view>
     </router-view>
   </div>
